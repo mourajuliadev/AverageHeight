@@ -21,3 +21,8 @@ Projeto simples desenvolvido em C# para calcular a média de alturas informadas 
 
 - C#
 - Console Application
+
+
+## Objetivo
+
+Projeto desenvolvido para praticar lógica de programação e manipulação de arrays em C#.
